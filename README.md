@@ -2,9 +2,6 @@
 
 Bulk Telegram Telethon Sessions to TData Converter Fully Autometic and Faster
 
-# telegram-session-login
-Get Login code from Telegram Session to Login into Telegram App/ Telegram Desktop
-
 ## Contact Developer 
 
 Contact Only for Serious Business, clowns Stay Away.
